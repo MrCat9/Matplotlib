@@ -21,7 +21,8 @@ https://www.matplotlib.org.cn/index.html
 绘制世界地图需要安装 Basemap
 
 ```
-https://www.lfd.uci.edu/~gohlke/pythonlibs/
+Basemap的.whl  https://www.lfd.uci.edu/~gohlke/pythonlibs/
+例子  https://matplotlib.org/basemap/users/examples.html
 ```
 
 绘制省份地图（行政区划分）需要 下载对应的 gadm
