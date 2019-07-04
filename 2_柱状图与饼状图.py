@@ -11,6 +11,10 @@ mpl.rcParams['ytick.labelsize'] = 16
 mpl.rcParams['axes.labelsize'] = 16
 mpl.rcParams['xtick.major.size'] = 0
 mpl.rcParams['ytick.major.size'] = 0
+# mpl.rcParams['font.sans-serif'] = ['SimHei']  # 用来正常显示中文标签
+
+# plt.rcParams['font.sans-serif'] = ['SimHei']  # 用来正常显示中文标签
+# plt.rcParams['axes.unicode_minus'] = False  # 用来正常显示负号
 
 # 包含了狗，猫和猎豹的最高奔跑速度，还有对应的可视化颜色
 speed_map = {
