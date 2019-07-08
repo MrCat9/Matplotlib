@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 # 摘自 https://zhuanlan.zhihu.com/p/24309547
+# scatter() 详细参数  https://blog.csdn.net/qq_38486203/article/details/80578260
 
 # 点图和线图
 
