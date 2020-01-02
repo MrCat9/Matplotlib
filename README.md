@@ -1,22 +1,12 @@
 # Matplotlib_Note
 
-matplotlib 官网
+matplotlib 官网 https://matplotlib.org/
 
-```
-https://matplotlib.org/
-```
+matplotlib 官网  绘图命令列表  list of plotting commands https://matplotlib.org/api/pyplot_summary.html
 
-matplotlib 官网  绘图命令列表  list of plotting commands
+matplotlib 中文文档 https://www.matplotlib.org.cn/index.html
 
-```
-https://matplotlib.org/api/pyplot_summary.html
-```
-
-matplotlib 中文文档
-
-```
-https://www.matplotlib.org.cn/index.html
-```
+## 目录
 
 绘制世界地图需要安装 Basemap
 
