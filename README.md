@@ -21,3 +21,8 @@ http://www.gadm.org/country
 
 https://blog.csdn.net/Beyond_1024/article/details/87608266
 
+#### 10_cmap
+
+https://matplotlib.org/tutorials/colors/colormaps.html?highlight=choosing%20colormaps%20matplotlib
+
+https://blog.csdn.net/lly1122334/article/details/88535217
